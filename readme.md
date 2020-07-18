@@ -1,3 +1,5 @@
+<p><b>Edit .env file to test on your local computer</b></p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
